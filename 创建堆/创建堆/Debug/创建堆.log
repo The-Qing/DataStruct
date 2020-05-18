@@ -1,0 +1,10 @@
+﻿  创建堆.c
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(18): warning C4013: “memcpy”未定义；假设外部返回 int
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(24): warning C4013: “AdjustDown”未定义；假设外部返回 int
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(26): warning C4098: “HeapCreate”:“void”函数返回值
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(43): warning C4022: “realloc”: 指针与实参 1 不匹配
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(43): error C2198: “realloc”: 用于调用的参数太少
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(49): warning C4013: “Adjustup”未定义；假设外部返回 int
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(55): warning C4047: “=”:“HPDataType *”与“HPDataType”的间接级别不同
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(129): error C2371: “AdjustDown”: 重定义；不同的基类型
+d:\github\github项目\datastruct\创建堆\创建堆\创建堆.c(155): error C2371: “Adjustup”: 重定义；不同的基类型
